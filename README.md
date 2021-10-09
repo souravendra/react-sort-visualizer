@@ -1,2 +1,3 @@
-# react-sort-visualizer
-Sorting Visualizer using React
+# `React Sort Visualizer`
+
+### Sorting Visualizer using React
