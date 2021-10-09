@@ -1,3 +1,3 @@
-# `React Sort Visualizer`
+### `React Sort Visualizer`
 
-### Sorting Visualizer using React
+ Sorting Visualizer using React
